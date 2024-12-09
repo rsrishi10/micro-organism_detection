@@ -1,0 +1,9 @@
+numpy
+streamlit 
+torch 
+torchvision==0.18.1
+ultralytics
+opencv-python
+Pillow
+djangorestframework
+django-cors-headers
